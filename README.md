@@ -72,7 +72,7 @@ src/
 ## ⚙️ Setup & Installation
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/hr-management-system.git  
+   git clone https://github.com/mrkalyankalyan96/hr-management-system.git  
    cd hr-management-system
    ```
 2. install dependencies
